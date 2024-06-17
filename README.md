@@ -13,8 +13,8 @@ $ npm run dev
 ## Views
 
 ### For authentication
-[/login](https://github.com/josiqq/nextjs-crud/blob/main/src/components/LoginForm.jsx) - login user
-[/signup](https://github.com/josiqq/nextjs-crud/blob/main/src/components/SignupForm.jsx) - signup user
+- [/login](https://github.com/josiqq/nextjs-crud/blob/main/src/components/LoginForm.jsx) - login user
+- [/signup](https://github.com/josiqq/nextjs-crud/blob/main/src/components/SignupForm.jsx) - signup user
 
 ### Tasks (all tasks views need authentication)
 - [/](https://github.com/josiqq/nextjs-crud/blob/main/src/components/TaskCard.jsx) - list all tasks

@@ -17,7 +17,7 @@ $ npm run dev
 [/signup](https://github.com/josiqq/nextjs-crud/blob/main/src/components/SignupForm.jsx) - signup user
 
 ### Tasks (all tasks views need authentication)
-[/](https://github.com/josiqq/nextjs-crud/blob/main/src/components/TaskCard.jsx) - list all tasks
-[/new](https://github.com/josiqq/nextjs-crud/blob/main/src/components/TaskForm.jsx) - create a new task
-[/:id]() - show a task by id or edit a task
+- [/](https://github.com/josiqq/nextjs-crud/blob/main/src/components/TaskCard.jsx) - list all tasks
+- [/new](https://github.com/josiqq/nextjs-crud/blob/main/src/components/TaskForm.jsx) - create a new task
+- [/:id]() - show a task by id or edit a task
 

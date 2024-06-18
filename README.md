@@ -15,23 +15,23 @@ $ npm run dev
 ### For authentication
 - [/login](https://github.com/josiqq/nextjs-crud/blob/main/src/components/LoginForm.jsx) - login user
 <p align="center">
-  <img src="https://github.com/josiqq/nextjs-crud/blob/main/images/login.png" width="300" />
+  <img src="https://github.com/josiqq/nextjs-crud/blob/main/images/login.png" width="400" />
 </p>
 
 - [/signup](https://github.com/josiqq/nextjs-crud/blob/main/src/components/SignupForm.jsx) - signup user
 <p align="center">
-  <img src="https://github.com/josiqq/nextjs-crud/blob/main/images/signup.png" width="300" />
+  <img src="https://github.com/josiqq/nextjs-crud/blob/main/images/signup.png" width="400" />
 </p>
 
 ### Tasks (all tasks views need authentication)
 - [/](https://github.com/josiqq/nextjs-crud/blob/main/src/components/TaskCard.jsx) - list all tasks
 <p align="center">
-  <img src="https://github.com/josiqq/nextjs-crud/blob/main/images/home.png" width="300" />
+  <img src="https://github.com/josiqq/nextjs-crud/blob/main/images/home.png" width="400" />
 </p>
 
 - [/new](https://github.com/josiqq/nextjs-crud/blob/main/src/components/TaskForm.jsx) - create a new task
 <p align="center">
-  <img src="https://github.com/josiqq/nextjs-crud/blob/main/images/newTask.png" width="300" />
+  <img src="https://github.com/josiqq/nextjs-crud/blob/main/images/newTask.png" width="400" />
 </p>
 
 

@@ -13,16 +13,25 @@ $ npm run dev
 ## Views
 
 ### For authentication
-- [/login](https://github.com/josiqq/nextjs-crud/blob/main/src/components/LoginForm.jsx) - login user 
-<img src="https://github.com/josiqq/nextjs-crud/blob/main/images/login.png" width="300" />
-- [/signup](https://github.com/josiqq/nextjs-crud/blob/main/src/components/SignupForm.jsx) - signup user 
-<img src="https://github.com/josiqq/nextjs-crud/blob/main/images/signup.png" width="300" />
+- [/login](https://github.com/josiqq/nextjs-crud/blob/main/src/components/LoginForm.jsx) - login user
+<p align="center">
+  <img src="https://github.com/josiqq/nextjs-crud/blob/main/images/login.png" width="300" />
+</p>
+
+- [/signup](https://github.com/josiqq/nextjs-crud/blob/main/src/components/SignupForm.jsx) - signup user
+<p align="center">
+  <img src="https://github.com/josiqq/nextjs-crud/blob/main/images/signup.png" width="300" />
+</p>
 
 ### Tasks (all tasks views need authentication)
-- [/](https://github.com/josiqq/nextjs-crud/blob/main/src/components/TaskCard.jsx) - list all tasks 
-<img src="https://github.com/josiqq/nextjs-crud/blob/main/images/home.png" width="300" />
-- [/new](https://github.com/josiqq/nextjs-crud/blob/main/src/components/TaskForm.jsx) - create a new task 
-<img src="https://github.com/josiqq/nextjs-crud/blob/main/images/newTask.png" width="300" />
-- [/:id]() - show a task by id or edit a task
+- [/](https://github.com/josiqq/nextjs-crud/blob/main/src/components/TaskCard.jsx) - list all tasks
+<p align="center">
+  <img src="https://github.com/josiqq/nextjs-crud/blob/main/images/home.png" width="300" />
+</p>
+
+- [/new](https://github.com/josiqq/nextjs-crud/blob/main/src/components/TaskForm.jsx) - create a new task
+<p align="center">
+  <img src="https://github.com/josiqq/nextjs-crud/blob/main/images/newTask.png" width="300" />
+</p>
 
 
